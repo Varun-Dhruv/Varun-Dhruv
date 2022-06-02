@@ -14,6 +14,6 @@
 <li>SCSS</li>
 <li>PostgreSQL</li>
 <h2>Technologies/Frameworks/Libraries</h2>
-<img src =""/>
+<img src ="https://github.com/Varun-Dhruv/Varun-Dhruv/blob/main/Icons/c.svg"/>
 
 
