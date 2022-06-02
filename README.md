@@ -13,5 +13,7 @@
 <li>Redux</li>
 <li>SCSS</li>
 <li>PostgreSQL</li>
+<h2>Technologies/Frameworks/Libraries</h2>
+<img src =""/>
 
 
