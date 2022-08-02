@@ -1,4 +1,4 @@
-<h3 align=center>Hi there,I'm <b style={color:red}>Varun</b> 👋 </h3>
+<h2 align=center>Hi there,I'm <b style={color:red}>Varun</b> 👋 </h2>
 <h1>I am a full stack Developer 💻,Guitarist 🎸,and Fitness Enthusiast 🏋️</h1>
 <p>I am passionate about the entire process of developing optimized and unique applications.I love the challenge of finding bugs and spending time with teammates to fix those bugs</p>
 <h2> 🤝 Connect with Me</h2>
