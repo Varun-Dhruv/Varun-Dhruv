@@ -4,7 +4,6 @@
 <h2> 🤝 Connect with Me</h2>
 <a href="https://www.linkedin.com/in/varun-koranne-657592209/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/varun_aka_dhruv/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://twitter.com/KoranneVarun" ><img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse"/></a>
 <li>If you have any question/feedback, please do not hesitate to reach out to me!</li>
 <h2> :telescope: I'm currently working on </h2>
 <li>My Old Projects</li>
