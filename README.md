@@ -7,11 +7,11 @@
 <li>If you have any question/feedback, please do not hesitate to reach out to me!</li>
 <h2> :telescope: I'm currently working on </h2>
 <li>My Old Projects</li>
-<li>Decentralized NFT storage and Creator Web Application</li>
+<li>Developer Collaboration Platform</li>
 <li>My CSS Skills</li>
 <h2>I'm currently learning</h2>
 <li>Redux</li>
-<li>SCSS</li>
+<li>Server Side Caching</li>
 <li>PostgreSQL</li>
 <h2>Technologies</h2>
 <h3>Languages</h3>
