@@ -1,4 +1,4 @@
-<h2 align=center>Hi there,I'm <b style={color:red}>Varun</b> 👋 </h2>
+<!-- <h2 align=center>Hi there,I'm <b style={color:red}>Varun</b> 👋 </h2>
 <h1>I am a Full stack Developer 💻,Guitarist 🎸,and Fitness Enthusiast 🏋️</h1>
 <p>I am passionate about the entire process of developing optimized and unique applications.I love the challenge of finding bugs and spending time with teammates to fix those bugs</p>
 <h2> 🤝 Connect with Me</h2>
@@ -54,4 +54,4 @@
 </p>
 <h3>Statistics</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=Varun-Dhruv&show_icons=true&theme=dracula)"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Dhruv&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Dhruv&layout=compact"/>  -->
